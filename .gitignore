@@ -38,3 +38,4 @@ out/
 
 custom.properties
 /src/main/resources/frontend/
+/src/main/resources/build/
